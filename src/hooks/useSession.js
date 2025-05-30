@@ -1,13 +1,11 @@
 import { Platform } from 'react-native';
 import { webStorage } from './webStorage';
 
-// Importar SQLite solo en plataformas móviles
 let SQLite;
 if (Platform.OS !== 'web') {
     SQLite = require('expo-sqlite');
 }
 
-// Clase para manejar sesiones en web usando localStorage
 class WebSessionManager {
     constructor() {
         this.STORAGE_KEY = 'user_session';
@@ -43,7 +41,7 @@ class WebSessionManager {
     }
 }
 
-// Clase para manejar sesiones en móvil usando SQLite
+
 class MobileSessionManager {
     constructor() {
         this.db = null;
@@ -86,7 +84,7 @@ class MobileSessionManager {
     }
 }
 
-// Hook principal que selecciona el manager apropiado según la plataforma
+
 export const useSession = () => {
     const sessionManager = Platform.OS === 'web' 
         ? new WebSessionManager() 
