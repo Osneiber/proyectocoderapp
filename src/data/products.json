@@ -1,0 +1,1202 @@
+[
+    {
+    "id": 1,
+    "title": "Apple iPhone 16 Pro Max 256GB",
+    "author": "Titanio Negro Libre",
+    "price": 1309,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/5hQvnyz6/iphone-16-pro-max-256gb.webp"
+    ]
+    },
+    {
+    "id": 2,
+    "title": "Apple iPhone 16 Pro 128GB",
+    "author": "Titanio Negro Libre",
+    "price": 1079,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/Kx58qmF5/iphone-16-pro-128gb.webp"
+    ]
+    },
+    {
+    "id": 3,
+    "title": "Samsung Galaxy S25 Ultra",
+    "author": "Smartphone con IA Almacenamiento 512GB Batería 5000mAh Titanio Plata",
+    "price": 1263,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/20Svv72v/samsung-galaxy-s25-ultra.webp"
+    ]
+    },
+    {
+    "id": 4,
+    "title": "Samsung Galaxy S24",
+    "author": "8/256GB Negro Onyx Libre",
+    "price": 649,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/0j2JX1Zm/samsung-galaxy-s24.webp"
+    ]
+    },
+    {
+    "id": 5,
+    "title": "Xiaomi Redmi Note 14 4G",
+    "author": "8/256GB Negro Medianoche Libre",
+    "price": 199,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/NgzKjdvC/xiaomi-redmi-note-14-4g.webp"
+    ]
+    },
+    {
+    "id": 6,
+    "title": "Xiaomi 14T 12/256GB",
+    "author": "Gris Titanio Libre",
+    "price": 449,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/NgzKjdvC/xiaomi-redmi-note-14-4g.webp"
+    ]
+    },
+    {
+    "id": 7,
+    "title": "Samsung Galaxy M55 5G 8",
+    "author": "256GB Negro Libre",
+    "price": 319,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/kV9CcWtj/samsung-galaxy-m55-5g-8-256gb.webp"
+    ]
+    },
+    {
+    "id": 8,
+    "title": "Apple iPhone 16e ",
+    "author": "128GB Negro",
+    "price": 675,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/prMFhMSB/apple-iphone-16e.webp"
+    ]
+    },
+    {
+    "id": 9,
+    "title": "Nothing Phone (3a) Smartphone 8GB/128GB 68",
+    "author": "AMOLED FHD 120Hz 50MP 5000mAh 45W Android 15 Negro",
+    "price": 279,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Telefonos",
+    "images": [
+        "https://i.ibb.co/zd2Nd1w/nothing-phone-3a-smartphone-8gb-128gb.webp"
+    ]
+    },
+    {
+    "id": 10,
+    "title": "Realme C75 8GB 256GB",
+    "author": "Lightning Gold Helio G92 Max Batería 6000mAh IP69 Android 14",
+    "price": 179,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Telefonos",
+    "images": [
+        "https://ibb.co/5XWnr3q6"
+    ]
+    },
+    {
+    "id": 11,
+    "title": "Portátil PcCom Legend 4070 Intel Core i9-14900HX",
+    "author": "32GB/2TB SSD/RTX 4070/16 + Windows 11 Home",
+    "price": 1999,
+    "stock": 140,
+    "isbn": "9789872570880",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/kgQbB4jk/pccom-legend-4070-intel-core-i9-14900hx.webp"
+    ]
+    },
+    {
+    "id": 12,
+    "title": "Portátil MSI Cyborg 15 A13VF-879XES Intel Core i7-13620H",
+    "author": "32GB/1TB SSD/RTX 4060/15.6",
+    "price": 999,
+    "stock": 80,
+    "isbn": "9788418850424",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/jZfKcbsS/msi-cyborg-15-a13vf-879xes-intel-core-i7-13620h.webp"
+    ]
+    },
+    {
+    "id": 13,
+    "title": "Portátil MSI Thin 15 B12UC-1839XES Intel Core i7-12650H",
+    "author": "16GB/1TB SSD/RTX 3050/15.6",
+    "price": 649,
+    "stock": 95,
+    "isbn": "9789500372169",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/d4zrDs9Q/msi-thin-15-b12uc-1839xes-intel-core-i7-12650h.webp"
+    ]
+    },
+    {
+    "id": 14,
+    "title": "Portátil Lenovo IdeaPad Slim 3 15IRH8 Intel Core i5-13420H",
+    "author": "16GB/1TB SSD/15.6 + WIN 11",
+    "price": 599,
+    "stock": 110,
+    "isbn": "9789507325618",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/DH9VqyGs/lenovo-ideapad-slim-3-15irh8-intel-core-i5-13420h.webp"
+    ]
+    },
+    {
+    "id": 15,
+    "title": "Portátil Acer Gaming Nitro V 15 ANV15-41 AMD Ryzen 7 7735HS",
+    "author": "32GB/1TB SSD/RTX 4060/15.6",
+    "price": 929,
+    "stock": 120,
+    "isbn": "9789500769150",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/Gf4DxvK8/acer-nitro-v-15-anv15-41-amd-ryzen-7-7735hs.webp"
+    ]
+    },
+    {
+    "id": 16,
+    "title": "Portátil ASUS Vivobook F1504VA-NJ2237 Intel Core i5-1334U",
+    "author": "16GB/512GB SSD/15.6",
+    "price": 399,
+    "stock": 150,
+    "isbn": "9789876133395",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/JFyHRxZ1/asus-vivobook-f1504va-nj2237-intel-core-i5-1334.webp"
+    ]
+    },
+    {
+    "id": 17,
+    "title": "Portátil MSI Prestige 16 AI Studio B1VFG-032ES Intel Evo Core Ultra 9 185H",
+    "author": "32GB/1TB SSD/RTX4060/16",
+    "price": 1649,
+    "stock": 100,
+    "isbn": "9789871337552",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/R4y2B3M4/msi-prestige-16-ai-studio-b1vfg-032es-intel-core-ultra-9-185h.webp"
+    ]
+    },
+ {
+    "id": 18,
+    "title": "Portátil HP 15-fd0080ns Intel Core i5-1334U",
+    "author": "16GB/512GB SSD/15.6 + WIN 11",
+    "price": 549,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/B5fPJbzN/hp-15-fd0080ns-intel-core-i5-1334u.webp"
+    ]
+    },
+ {
+    "id": 19,
+    "title": "Portátil HP Victus 16-s0011ns AMD Ryzen 7 7840HS",
+    "author": "32GB/1TB SSD/RTX 4060/16.1",
+    "price": 1149,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/8D9wN5Yh/hp-victus-16-s0011ns-amd-ryzen-7-7840hs.webp"
+    ]
+    },
+ {
+    "id": 20,
+    "title": "Portátil Alurin Go Start Intel Celeron N4020 ",
+    "author": "8GB/256GB SSD/15.6 + Windows 11 Home",
+    "price": 319,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Portatiles",
+    "images": [
+        "https://i.ibb.co/TCRLrFL/alurin-go-start-intel-celeron-n4020.webp"
+    ]
+    },
+{
+    "id": 21,
+    "title": "Sony PlayStation 5 Slim (Promo)",
+    "author": "+ AstroBot + Spiderman 2",
+    "price": 529,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/5WxMKg2M/sony-playstation-5-slim-2.webp"
+    ]
+    },
+    {
+    "id": 22,
+    "title": "Sony PlayStation 5 Slim",
+    "author": "Slim",
+    "price": 528,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/Zz9HrjZ1/sony-playstation-5.webp"
+    ]
+    },
+    {
+    "id": 23,
+    "title": "Sony PlayStation 5 Pro",
+    "author": "PlayStation Pro",
+    "price": 749,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/rKGmMVJQ/sony-playstation-5-pro.webp"
+    ]
+    },
+    {
+    "id": 24,
+    "title": "Nintendo Switch OLED Blanca",
+    "author": "OLED Blanca",
+    "price": 335,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/BKVQRBX5/1945-nintendo-switch-oled-blanca.webp"
+    ]
+    },
+    {
+    "id": 25,
+    "title": "Nintendo Switch Azul Neón/Rojo Neón",
+    "author": "Switch Azul Neón/Rojo Neón",
+    "price": 636,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/PvQySyMV/consola-nintendo-switch.webp"
+    ]
+    },
+    {
+    "id": 26,
+    "title": "Videoconsolas Nintendo Switch 2 Nintendo Switch 2 7.9",
+    "author": "FullHD HDR 120Hz 256GB Magnetic Joy-Con Modo",
+    "price": 469,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/rRJvwDty/nintendo-switch-2-79-fullhd.webp"
+    ]
+    },
+    {
+    "id": 27,
+    "title": "Anbernic RG40XXV",
+    "author": "Consola Retro Portátil 64GB Negro Transparente",
+    "price": 799,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/dJtDLfkB/anbernic-rg40xxv-consola-retro-portatil-64gb.webp"
+    ]
+    },
+    {
+    "id": 28,
+    "title": "Anbernic RG40XX",
+    "author": "H Consola Retro Portátil 64GB Negra",
+    "price": 109,
+    "stock": 110,
+    "isbn": "9789878120218",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/NnjHnt54/anbernic-rg40xx-h.webp"
+    ]
+    },
+    {
+    "id": 29,
+    "title": "Lenovo Legion Go Consola Portátil Gaming",
+    "author": "AMD Ryzen Z1 Extreme 16GB/512GB y 8.8 con Windows 11",
+    "price": 855,
+    "stock": 100,
+    "isbn": "9789878120225",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/qYnzRV1J/lenovo-legion-go-amd-ryzen-z1-extreme.webp"
+    ]
+    },
+    {
+    "id": 30,
+    "title": "Microsoft Xbox Series X 1TB Negra",
+    "author": "Series X 1TB Negra",
+    "price": 549,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Consolas",
+    "images": [
+        "https://i.ibb.co/wryJqYjn/microsoft-xbox-series-x-1tb.webp"
+    ]
+    },
+{
+    "id": 31,
+    "title": "Nilait Prisma 32FC7002S 32",
+    "author": "FULL HD Ready Smart TV",
+    "price": 154,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/Wvfw4kyv/nilait-prisma-32fc7002s-32-full-hd-ready-smart-tv.webp"
+    ]
+    },
+    {
+    "id": 32,
+    "title": "TV LG 43UR78006LK 43",
+    "author": "LED UltraHD 4K HDR10 Pro",
+    "price": 249,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/d4QGbZdg/1742-lg-43ur78006lk-43-led-ultrahd-4k.webp"
+    ]
+    },
+    {
+    "id": 33,
+    "title": "TV Samsung 55” Neo QLED QN90X 4K",
+    "author": "Mini LED con Quantum Matrix Technology y Procesador Neural con IA",
+    "price": 729,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/Z6R0WhVp/1514-samsung-tq55qn90xatxxc-55-neo-qled-ultrahd-4k.webp"
+    ]
+    },
+    {
+    "id": 34,
+    "title": "*PROMO* - TV LG OLED55C44LA 55 OLED UltraHD Dolby Vision AI ThinQ",
+    "author": "LG 32LQ63006LA 32 LED FullHD HDR10 Pro",
+    "price": 999,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/CKX7qF8x/1544-lg-oled55c44la-55-oled-ultrahd.webp"
+    ]
+    },
+    {
+    "id": 35,
+    "title": "TV LG 65UR78006LK 65",
+    "author": "LED UltraHD 4K HDR10 Pro",
+    "price": 479,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/fYw8jpBJ/1628-lg-65ur78006lk-65-led-ultrahd-4k.webp"
+    ]
+    },
+    {
+    "id": 36,
+    "title": "TV Philips Ambilight TV 55PUS8209 55",
+    "author": "QLED UltraHD 4K Dolby Atmos Titan OS",
+    "price": 399,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/7Nj9Xnpw/1617-philips-ambilight-tv-55pus8209-55-qled-ultrahd-4k.webp"
+    ]
+    },
+    {
+    "id": 37,
+    "title": "TV Nilait Prisma 24HB7001N 24",
+    "author": "ELED HD Ready Conector 12V",
+    "price": 114,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/Xfm3sHYX/2774-nilait-prisma-24hb7001n-24.webp"
+    ]
+    },
+    {
+    "id": 38,
+    "title": "TV LG OLED55C44LA 55",
+    "author": "OLED evo UltraHD 4K Dolby Vision WebOS24 AI ThinQ",
+    "price": 1154,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/V0c4CbwK/1223-lg-oled55c44la-55-oled-evo-ultrahd-4k-dolby-vision-webos24-ai-thinq.webp"
+    ]
+    },
+    {
+    "id": 39,
+    "title": "TV Samsung TQ55Q60DAUXXC 55",
+    "author": "QLED UltraHD 4K HDR10 Tizen",
+    "price": 499,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/9HsnBfdF/1526-samsung-tq55q60dauxxc-55.webp"
+    ]
+    },
+    {
+    "id": 40,
+    "title": "Xiaomi A PRO 2025 65",
+    "author": "QLED UltraHD 4k Dolby Atmos Google TV",
+    "price": 489,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Televisores",
+    "images": [
+        "https://i.ibb.co/YBpSzwhc/1557-xiaomi-a-pro-2025-65-qled-ultrahd-4k-dolby-atmos-google-tv.webp"
+    ]
+    },
+    {
+    "id": 41,
+    "title": "Tablet Lenovo TAB M11 11",
+    "author": "8/128GB Gris Funda Pen Stylus",
+    "price": 199,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/LzFW4BD6/1634-lenovo-tab-m11-11-8-128gb-gris-funda-pen-stylus.webp"
+    ]
+    },
+    {
+    "id": 42,
+    "title": "Tablet Xiaomi Pad 6 11",
+    "author": "2.8K 6/128GB WiFi Gris",
+    "price": 279,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/TD3Q541S/1717-xiaomi-pad-6-11-28k-6-128gb-wifi-pizarra.webp"
+    ]
+    },
+    {
+    "id": 43,
+    "title": "Tablet Apple iPad 2025 11",
+    "author": "WiFi 128GB Plata",
+    "price": 369,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/Q35Vwrhm/1775-apple-ipad-2025-11-wifi-128gb-plata.webp"
+    ]
+    },
+    {
+    "id": 44,
+    "title": "Tablet Lenovo Idea Tab Pro 12.7",
+    "author": "3K 8/256GB WiFi Gris Teclado Tab Pen Plus",
+    "price": 479,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/21jVNktR/158-lenovo-idea-tab-pro-127-3k-8-256gb-wifi-gris-teclado-tab-pen-plus.webp"
+    ]
+    },
+    {
+    "id": 45,
+    "title": "Tablet Samsung Galaxy Tab A9",
+    "author": "WiFi 11 8/128GB Gris",
+    "price": 270,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/VWCmrhmm/1364-samsung-galaxy-tab-a9-wifi-11-8-128gb-gris-review.webp"
+    ]
+    },
+    {
+    "id": 46,
+    "title": "Tablet Samsung Galaxy Tab S10 FE WiFi 10.9",
+    "author": "WUXGA+ 8GB/128GB 8000mAh 45W Android 15 Gris",
+    "price": 569,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/HsPpGG6/1553-samsung-galaxy-tab-s10-fe-wifi-109-wuxga-8gb-128gb-8000mah-45w-android-15-gris.webp"
+    ]
+    },
+    {
+    "id": 47,
+    "title": "Tablet Xiaomi Redmi Pad SE 11",
+    "author": "4/128GB Gris Grafito",
+    "price": 159,
+    "stock": 159,
+    "isbn": "9789878120201",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/QvpkX2S4/1328-xiaomi-redmi-pad-se-11-4-128gb-gris-grafito.webp"
+    ]
+    },
+    {
+    "id": 48,
+    "title": "Tablet Samsung Galaxy Tab S9 FE WiFi 10.9",
+    "author": "6/128GB Gris",
+    "price": 369,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/bgyn2xF1/1402-samsung-galaxy-tab-s9-fe-wifi-109-6-128gb-gris.webp"
+    ]
+    },
+    {
+    "id": 49,
+    "title": "Tablet Apple iPad Pro 2024 11",
+    "author": "Wifi 256GB Negro Espacial",
+    "price": 1119,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/WNfg4Jxf/1878-apple-ipad-pro-2024-11-wifi-256gb-negro-espacial.webp"
+    ]
+    },
+    {
+    "id": 50,
+    "title": "Honor Pad 9 12.1 8GB/256GB Tablet 2,5K 12.1",
+    "author": "2.5K 120Hz 8300mAh Wifi 5 Plata",
+    "price": 249,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Tablets",
+    "images": [
+        "https://i.ibb.co/3yys08wG/1915-honor-pad-9-121-8-256gb-wi-fi-gris.webp"
+    ]
+    },
+    {
+    "id": 51,
+    "title": "Owlotech EMK500",
+    "author": "Combo Teclado y Ratón Ergonómico Wireless Negro",
+    "price": 35,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/zh3fpwb7/1643-owlotech-emk500-combo-teclado-y-raton-ergonomico-wireless-negro-comprar.webp"
+    ]
+    },
+    {
+    "id": 52,
+    "title": "Forgeon Clutch Teclado Gaming Wireless",
+    "author": "RGB 60% Switch Brown",
+    "price": 55,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/TMHb61LN/1649-forgeon-clutch-teclado-gaming-wireless-rgb-60-switch-brown-review.webp"
+    ]
+    },
+    {
+    "id": 53,
+    "title": "SteelSeries Aerox 3",
+    "author": "Wireless 2022 Blanco",
+    "price": 69,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/tTjKpPb8/1393-steelseries-aerox-3-wireless-2022-snow-raton-gaming-inalambrico-18000dpi.webp"
+    ]
+    },
+    {
+    "id": 54,
+    "title": "Logitech G502",
+    "author": "Hero Ratón Gaming 25600DPI",
+    "price": 51,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/Y46TSCWv/244-logitech-g502-hero-raton-gaming-16000dpi-caracteristicas.webp"
+    ]
+    },
+    {
+    "id": 55,
+    "title": "Logitech G Pro X Auriculares Gaming",
+    "author": "Inalámbricos con Lightspeed Negros",
+    "price": 109,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/fVSh8SDG/1256-logitech-pro-x-auriculares-gaming-inalambricos-con-lightspeed-negros-foto.webp"
+    ]
+    },
+    {
+    "id": 56,
+    "title": "Samsung Galaxy Buds3 Pro",
+    "author": "Auriculares Inalámbricos Bluetooth Grises",
+    "price": 251,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/8Z7CWPQ/1938-samsung-galaxy-buds3-pro-auriculares-inalambricos-bluetooth-grises-5d5f02cd-e692-4678-8b24-3ca6.webp"
+    ]
+    },
+    {
+    "id": 57,
+    "title": "Tempest Vanquish Silla Gaming",
+    "author": "Negra/Azul Tela Transpirable",
+    "price": 120,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/V0LVvZgy/1355-tempest-vanquish-silla-gaming-negra-azul-tela-transpirable.webp"
+    ]
+    },
+    {
+    "id": 58,
+    "title": "Corsair T3 Rush Silla Gaming",
+    "author": "Cojín y Almohada Cervical Negra/Gris",
+    "price": 290,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/7tHj5kxF/1779-corsair-t3-rush-silla-gaming-negra-gris.webp"
+    ]
+    },
+    {
+    "id": 59,
+    "title": "Disco Duro Toshiba Canvio Basics 2TB",
+    "author": "Disco Externo Portátil USB 3.2 Negro",
+    "price": 72,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/23q8J5hJ/1348-toshiba-canvio-basics-25-2tb-usb-32-negro-opiniones.jpg"
+    ]
+    },
+    {
+    "id": 60,
+    "title": "Crucial X9 SSD",
+    "author": "Disco Duro Externo 1TB USB-C",
+    "price": 92,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Perifericos",
+    "images": [
+        "https://i.ibb.co/gZSn5f3H/1582-crucial-x9-ssd-disco-duro-externo-1tb-usb-c.webp"
+    ]
+    },
+    {
+    "id": 61,
+    "title": "Cámara Digital Canon",
+    "author": "EOS R6 MARK II V5 24.2MP WiFi Cuerpo",
+    "price": 2063,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/C3HNxV4Y/1488-canon-eos-r6-mark-ii-v5-242mp-wifi-cuerpo.webp"
+    ]
+    },
+    {
+    "id": 62,
+    "title": "Cámara Digital Canon EOS R8",
+    "author": "24.2MP Cuerpo",
+    "price": 1655,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/JFWQtmJf/1344-canon-eos-r8-242mp-cuerpo.webp"
+    ]
+    },
+    {
+    "id": 63,
+    "title": "Cámara Digital Canon EOS 4000D",
+    "author": "18MP WiFi EF-S 18-55mm F3.5-5.6 DC III",
+    "price": 525,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/5hr1Gjk4/02.webp"
+    ]
+    },
+    {
+    "id": 64,
+    "title": "Cámara Digital Sony Alpha 7",
+    "author": "IV 33MP WiFi/Bluetooth Cuerpo",
+    "price": 1925,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/M5t2HWv9/1722-sony-alpha-7-iv-33mp-wifi-bluetooth-cuerpo-review.webp"
+    ]
+    },
+    {
+    "id": 65,
+    "title": "Cámara Digital Panasonic Lumix DC-G9",
+    "author": "20.3MP WiFi Objetivo 12-60mm F3.5-5.6 ASPH OIS",
+    "price": 1718,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/PGjsZ0vK/panasonic-lumix-dc-g9-203mp-wifi-objetivo-12-60mm-f35-56-asph-ois-opiniones.webp"
+    ]
+    },
+    {
+    "id": 66,
+    "title": "Panasonic Lumix DC-G90M 20MP WiFi",
+    "author": "Objetivo 12-60mm F3.5-5.6 ASPH OIS",
+    "price": 1587,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/PsD5jMQz/1472-panasonic-lumix-dc-g90m-20mp-wifi-objetivo-12-60mm-f35-56-asph-ois-especificaciones.webp"
+    ]
+    },
+    {
+    "id": 67,
+    "title": "Cámara Digital Kodak Pixpro AZ425",
+    "author": "Cámara Compacta Digital Bridge 20MP Negra",
+    "price": 242,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/27QrYPVT/148-kodak-pixpro-az425-camara-compacta-digital-bridge-20mp-negra.webp"
+    ]
+    },
+    {
+    "id": 68,
+    "title": "Cámara Digital Kodak Pixpro AZ528",
+    "author": "Midnight Blue Cámara Bridge 16MP Zoom 52x FHD",
+    "price": 291,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/8nXrFgwW/1767-kodak-pixpro-az528-midnight-blue-camara-reflex-16mp-wi-fi-negro.webp"
+    ]
+    },
+    {
+    "id": 69,
+    "title": "Panasonic HC-VXF1 Videocámara",
+    "author": "MOS BSI UltraHD 4K 8,57MP",
+    "price": 986,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/fzxMjvyq/1844-panasonic-hc-vxf1-videocamara-mos-bsi-ultrahd-4k-857mp.webp"
+    ]
+    },
+    {
+    "id": 70,
+    "title": "Blackmagic Pocket",
+    "author": "Cinema Camera 4K 8.8MP Cuerpo",
+    "price": 1450,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Camaras",
+    "images": [
+        "https://i.ibb.co/rKv4M5pF/1368-blackmagic-pocket-cinema-camera-4k-88mp-cuerpo.webp"
+    ]
+    },
+    {
+    "id": 71,
+    "title": "PcCom Ready AMD Ryzen 7 5800X",
+    "author": "32GB / 2TBSSD / RTX 4060 Ti + Windows 11 Home",
+    "price": 1399,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/Wv7k50b5/1853-pccom-ready-amd-ryzen-7-5800x-32gb-2tb-ssd-rtx-4060-ti-windows-11-home.webp"
+    ]
+    },
+    {
+    "id": 72,
+    "title": "PcCom Ready Intel Core i5-12400F",
+    "author": "32 GB / 1TB SSD / RTX 4060",
+    "price": 869,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/fVZxrSCB/1348-pccom-ready-intel-core-i5-12400f-32-gb-1tb-ssd-rtx-4060-opiniones.webp"
+    ]
+    },
+    {
+    "id": 73,
+    "title": "PcCom Imperial Intel Core i7-14700KF",
+    "author": "https://ibb.co/4wBCLyty",
+    "price": 2399,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/Q7shVBQB/1881-pccom-imperial-intel-core-i7-14700kf-32gb-2tb-ssd-rtx-5070-ti-windows-11-home-comprar.webp"
+    ]
+    },
+    {
+    "id": 74,
+    "title": "Yeyian PC Gaming Tanto Intel Core i5-12400F",
+    "author": "16GB/1TB SSD/RTX 4060",
+    "price": 899,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/7tBQjwK0/1708-yeyian-pc-gaming-tanto-intel-core-i5-12400f-16gb-1tb-ssd-rtx-4060.jpg"
+    ]
+    },
+    {
+    "id": 75,
+    "title": "PcCom Lite AMD Ryzen 5 5500",
+    "author": "16GB / 1TBSSD / RX 6600",
+    "price": 599,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/VW260fs3/1478-pccom-lite-amd-ryzen-5-5500-16gb-1tbssd-rx-6600.webp"
+    ]
+    },
+    {
+    "id": 76,
+    "title": "PcCom Work Intel Core i5-12400",
+    "author": "32GB / 1TB SSD",
+    "price": 499,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/ks9Sf6Js/1627-pccom-work-intel-core-i5-12400-32gb-1tb-ssd.webp"
+    ]
+    },
+    {
+    "id": 77,
+    "title": "MSI MAG Infinite S3 14NUD7-1853ES Intel Core i7-14700F",
+    "author": "32GB/1TB SSD/RTX 4060 Ti",
+    "price": 1149,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/gZbvy4V0/1146-msi-mag-infinite-s3-14nud7-1853es-intel-core-i7-14700f-32gb-1tb-ssd-rtx-4060-ti.webp"
+    ]
+    },
+    {
+    "id": 78,
+    "title": "PcCom Ready Intel Core i5-12400F",
+    "author": "32GB / 1TB SSD / RTX 4060 - Blanco V2",
+    "price": 899,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/Rp6cHkBY/1819-pccom-ready-intel-core-i5-12400f-32gb-1tb-ssd-rtx-4060-blanco-v2-comprar.webp"
+    ]
+    },
+    {
+    "id": 79,
+    "title": "PcCom Ready AMD Ryzen 7 5800X",
+    "author": "32GB / 1TB SSD / RTX 4060 Ti + Windows 11 Home -",
+    "price": 1329,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/VYcG6xfG/1329-pccom-ready-amd-ryzen-7-5800x-32gb-1tb-ssd-rtx-4060-ti-windows-11-home-blanco-comprar.webp"
+    ]
+    },
+    {
+    "id": 80,
+    "title": "PcCom Lite Intel Core i5-12400F",
+    "author": "1TB SSD / 16GB / RTX 3050 Negro V2 + Windows 11",
+    "price": 789,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Ordenadores",
+    "images": [
+        "https://i.ibb.co/dwJ7DvkV/1450-pccom-lite-intel-core-i5-12400f-1tb-ssd-16gb-rtx-3050-negro-v2-windows-11-home-comprar.webp"
+    ]
+    },
+    {
+    "id": 81,
+    "title": "Apple Watch Ultra 2 GPS Cellular 49mm",
+    "author": "Caja Negra Titanio con Correa Ocean Band Negra",
+    "price": 859,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/3YrXjBd9/1606-apple-watch-ultra-2-gps-cellular-49mm-caja-negra-titanio-con-correa-ocean-band-negra.webp"
+    ]
+    },
+    {
+    "id": 82,
+    "title": "Xiaomi Redmi Watch 5",
+    "author": "Active Reloj Smartwatch Plata Mate",
+    "price": 30,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/DPR0T8ZH/1366-xiaomi-redmi-watch-5-active-reloj-smartwatch-plata-mate.webp"
+    ]
+    },
+    {
+    "id": 83,
+    "title": "Samsung Galaxy Watch Ultra LTE 47mm",
+    "author": "Reloj Smartwatch Gris Titanium",
+    "price": 694,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/r2TYBj40/1496-samsung-galaxy-watch-ultra-lte-47mm-reloj-smartwatch-gris-titanium-38a708d0-8aec-4d60-a688-affd.webp"
+    ]
+    },
+    {
+    "id": 84,
+    "title": "Apple Watch SE GPS 44mm",
+    "author": "Caja de Aluminio Medianoche con Correa Deportiva Medianoche M/L",
+    "price": 267,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/kpHvVCq/1880-apple-watch-se-gps-44mm-caja-de-aluminio-medianoche-con-correa-deportiva-medianoche-m-l.webp"
+    ]
+    },
+    {
+    "id": 85,
+    "title": "Apple Watch Series 10 GPS 46mm",
+    "author": "Caja Aluminio Negro Azabache con Correa Deportiva Negra M/L",
+    "price": 458,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/5hn0L3jQ/1851-apple-watch-series-10-gps-46mm-caja-de-aluminio-negro-azabache-con-correa-deportiva-negra-m-l.webp"
+    ]
+    },
+    {
+    "id": 86,
+    "title": "Amazfit Active 2 R Smartwatch 1,32",
+    "author": "2000nits Mapas Offline Plata Correa Negra",
+    "price": 94,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/S7Bt70MY/1164-amazfit-active-2-r-smartwatch-132-2000nits-mapas-offline-plata-correa-negra-comprar.webp"
+    ]
+    },
+    {
+    "id": 87,
+    "title": "Google Pixel Watch 3 WiFi 4G 45mm Smartwatch",
+    "author": "Caja Aluminio Negro Mate y Correa Deportiva Obsidiana",
+    "price": 549,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/YTtDKFB8/1586-google-pixel-watch-3-wifi-4g-45mm-smartwatch-caja-aluminio-negro-mate-y-correa-deportiva-obsidi.webp"
+    ]
+    },
+    {
+    "id": 88,
+    "title": "Amazfit Bip 5",
+    "author": "Unity Reloj Smartwatch Gris",
+    "price": 67,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/PvLMYfYQ/1429-amazfit-bip-5-unity-reloj-smartwatch-gris.webp"
+    ]
+    },
+    {
+    "id": 89,
+    "title": "Amazfit Cheetah",
+    "author": "Reloj Smartwatch Gris",
+    "price": 224,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/NbLV8GN/1996-amazfit-cheetah-reloj-smartwatch-gris.webp"
+    ]
+    },
+    {
+    "id": 90,
+    "title": "Amazfit Active",
+    "author": "Edge SmartWatch 46mm Blanco",
+    "price": 141,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Smartwatch",
+    "images": [
+        "https://i.ibb.co/twKwGZsr/1862-amazfit-active-edge-smartwatch-46mm-blanco.webp"
+    ]
+    },
+    {
+    "id": 91,
+    "title": "PcCom Essential Smart",
+    "author": "Silla Escritorio Negra",
+    "price": 52,
+    "stock": 60,
+    "isbn": "9784088807232",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/B2F18gZ1/1348-pccom-essential-smart-silla-escritorio-negra-comprar.webp"
+    ]
+    },
+    {
+    "id": 92,
+    "title": "Valk Nyx Silla Gaming",
+    "author": "Tela Lila Místico",
+    "price": 229,
+    "stock": 45,
+    "isbn": "9784088807553",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/MydVnXXF/165-valk-nyx-silla-gaming-de-tela-lila-mistico.webp"
+    ]
+    },
+    {
+    "id": 93,
+    "title": "Newskill Eros Silla Gaming",
+    "author": "Malla Ergonómica Gris",
+    "price": 119,
+    "stock": 150,
+    "isbn": "9789872462828",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/Nn30smPX/1827-newskill-eros-silla-gaming-con-malla-ergonomica-gris.webp"
+    ]
+    },
+    {
+    "id": 94,
+    "title": "Corsair TC100 RELAXED v2 Fabric Silla Gaming",
+    "author": "Negra con Cojín y Almohada Cervical Grises",
+    "price": 189,
+    "stock": 150,
+    "isbn": "4088728785",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/ZRx9ZwsB/1142-corsair-tc100-relaxed-v2-fabric-silla-gaming-negra-con-cojin-y-almohada-cervical-grises-opinion.webp"
+    ]
+    },
+    {
+    "id": 95,
+    "title": "Owlotech Stanford",
+    "author": "Silla de Oficina Negra",
+    "price": 99,
+    "stock": 90,
+    "isbn": "9789507689314",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/pBhx6G6Z/1421-owlotech-silla-de-oficina-stanford-negra.webp"
+    ]
+    },
+    {
+    "id": 96,
+    "title": "Tempest Glare ",
+    "author": "RGB Silla Gaming Negra",
+    "price": 151,
+    "stock": 50,
+    "isbn": "9789504963950",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/wh3DbYJK/1500-tempest-glare-rgb-silla-gaming-negra.webp"
+    ]
+    },
+    {
+    "id": 97,
+    "title": "Owlotech Regal",
+    "author": "Silla Escritorio Ergonómica Mesh Negra",
+    "price": 249,
+    "stock": 200,
+    "isbn": "9789878120201",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/rGCt67wS/1238-owlotech-regal-silla-escritorio-ergonomica-mesh-negra.webp"
+    ]
+    },
+    {
+    "id": 98,
+    "title": "Forgeon Spica Fabric",
+    "author": "Silla Gaming Tela Transpirable Gris",
+    "price": 269,
+    "stock": 200,
+    "isbn": "9789878120218",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/Hp7Bpxnm/1168-forgeon-spica-fabric-silla-gaming-tela-transpirable-gris-comprar.webp"
+    ]
+    },
+    {
+    "id": 99,
+    "title": "Tempest Shake Silla Gaming",
+    "author": "Reposapiés y Masaje Rosa",
+    "price": 119,
+    "stock": 200,
+    "isbn": "9789878120225",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/yF9gXZ2m/1596-tempest-shake-silla-gaming-con-reposapies-y-masaje-rosa.webp"
+    ]
+    },
+    {
+    "id": 100,
+    "title": "Newskill Nue Silla Gaming Ergonómica",
+    "author": "Malla Transpirable con Soporte Lumbar Negro",
+    "price": 139,
+    "stock": 130,
+    "isbn": "9789504981718",
+    "category": "Sillas",
+    "images": [
+        "https://i.ibb.co/CKm642k0/1781-newskill-nue-silla-gaming-ergonomica-negro.webp"
+    ]
+    }
+]
