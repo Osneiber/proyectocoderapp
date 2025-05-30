@@ -65,12 +65,12 @@ const ItemDetail = ({ route, navigation }) => {
 
   const handleAddCart = () => {
     if (product) {
-      dispatch(addCartItem({ ...product, quantity: quantity })); // Usar la cantidad del estado local
+      dispatch(addCartItem({ ...product, quantity: quantity })); 
       Alert.alert(
         "Producto Agregado",
         `${product.title} (x${quantity}) se ha añadido al carrito.`
       );
-      setQuantity(1); // Opcional: resetear cantidad después de agregar
+      setQuantity(1); 
       Animated.sequence([
         Animated.timing(scaleAnim, {
           toValue: 0.95,
@@ -201,7 +201,6 @@ const ItemDetail = ({ route, navigation }) => {
             ${product.price}
           </Text>
 
-          {/* Selector de Cantidad */}
           <View style={styles.quantityContainer}>
             <Pressable
               onPress={handleDecrementQuantity}
@@ -276,7 +275,7 @@ const styles = StyleSheet.create({
     transform: [{ scale: 0.95 }],
   },
   headerTitle: {
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     color: colors.textHighContrast,
   },
   content: {
@@ -306,7 +305,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   title: {
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     color: colors.textHighContrast,
     marginBottom: 12,
   },
@@ -316,7 +315,7 @@ const styles = StyleSheet.create({
     lineHeight: 24,
   },
   price: {
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     color: colors.accentHighContrast,
     marginBottom: 20,
   },
@@ -338,11 +337,11 @@ const styles = StyleSheet.create({
   quantityButtonText: {
     color: colors.textHighContrast,
     fontSize: 20,
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     fontWeight: "bold",
   },
   quantityText: {
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     color: colors.textHighContrast,
     paddingHorizontal: 10,
   },
@@ -358,7 +357,7 @@ const styles = StyleSheet.create({
   },
   addToCartText: {
     color: colors.textHighContrast,
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     fontWeight: "bold",
   },
   loadingContainer: {
@@ -391,7 +390,7 @@ const styles = StyleSheet.create({
   },
   retryButtonText: {
     color: colors.textHighContrast,
-    fontFamily: "Josefin",
+    fontFamily: "CourierL",
     fontWeight: "bold",
   },
 });
